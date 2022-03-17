@@ -18,8 +18,8 @@ This is where the fun happens. Inside this notebook contains functions to predic
 ### Results
 I will keep track of each year's prediction model used in the game_prediction() function as well store the accuracy of the predictions after the tournament is completed. The results for each year can be found below:
 ### 2022:
-- Predicted Champion:
-- Predicted Final Four:
+- Predicted Champion: Gonzaga
+- Predicted Final Four: Gonzaga, Kentucky, Houston, Kansas
 - Actual Champion:
 - Actual Final Four:
 - Prediction % Correct:
