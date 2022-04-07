@@ -21,7 +21,7 @@ I will keep track of each year's prediction model used in the game_prediction() 
 ### 2022:
 - Predicted Champion: Gonzaga
 - Predicted Final Four: Gonzaga, Kentucky, Houston, Kansas
-- Actual Champion:
-- Actual Final Four:
+- Actual Champion: Kansas
+- Actual Final Four: Duke, UNC, Villanova, Kansas
 - Prediction % Correct:
 
