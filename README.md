@@ -23,5 +23,6 @@ I will keep track of each year's prediction model used in the game_prediction() 
 - Predicted Final Four: Gonzaga, Kentucky, Houston, Kansas
 - Actual Champion: Kansas
 - Actual Final Four: Duke, UNC, Villanova, Kansas
-- Prediction % Correct:
-
+- Percentile Finish (ESPN): 80.4 percentile
+- Prediction % Correct (First Try): 
+- Prediction % Correct (Reset Each Round): 73%
