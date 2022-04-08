@@ -24,5 +24,5 @@ I will keep track of each year's prediction model used in the game_prediction() 
 - Actual Champion: Kansas
 - Actual Final Four: Duke, UNC, Villanova, Kansas
 - Percentile Finish (ESPN): 80.4 percentile
-- Prediction % Correct (First Try): 
-- Prediction % Correct (Reset Each Round): 73%
+- Prediction % Correct (Outcome when all rounds were predicted Before First Round): 63%
+- Prediction % Correct (Outcome when new predictions were made at beginning of Each Round): 73%
