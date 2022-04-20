@@ -4,6 +4,10 @@
 ## March_Madness_EDA:
 ### Summary
 This notebook is used to compare full team stats between various tournament teams from 2012-2021. The goal is to seek out particular stats that show a correlation to Tournament Performance.
+
+### Data Source:
+www.barttorvik.com for all raw data
+
 ### Initial Results:
 Through the first iteration of EDA, the stats that showed correlation to Tournament Performance are listed below in order of importance:
 - ADJOE
