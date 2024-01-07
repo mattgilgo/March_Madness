@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Notebooks
+*.ipynb
+
+# .txt
+*.txt
+
+# data
+/adj_eff_snapshot_data
+/team_stats_snapshot_data
