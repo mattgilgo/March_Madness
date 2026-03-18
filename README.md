@@ -30,3 +30,31 @@ I will keep track of each year's prediction model used in the game_prediction() 
 - Percentile Finish (ESPN): 80.4 percentile
 - Prediction % Correct (Outcome when all rounds were predicted Before First Round): 63%
 - Prediction % Correct (Outcome when new predictions were made at beginning of Each Round): 73%
+
+
+### 2025:
+- Built and testing multiple models, including:
+    - Original Model
+    - Original Model @ differening dates
+    - New Model Incorporating Talent and Experience @ differing dates
+    - New Matchup-focused Model @ differing dates
+- Testing all models in ESPN, except 1. The missing one was not entered in time, and its the Talent-Based March 1st one
+Chosen Model has it's Performance listed Below:
+- Predicted Champion: Florida
+- Predicted Final Four: Auburn, Florida, Duke, Houston
+- Actual Champion: Florida
+- Actual Final Four: Auburn, Florida, Duke, Houston
+- Percentile Finish (ESPN): 94.1 percentile
+- Prediction % Correct (Outcome when all rounds were predicted Before First Round): Need
+- Prediction % Correct (Outcome when new predictions were made at beginning of Each Round): Need
+
+
+### 2026:
+With model chosen from previous year, here are the new predictions:
+- Predicted Champion: Duke
+- Predicted Final Four: Duke, Iowa, Arizona, Iowa St.
+- Actual Champion: TBD
+- Actual Final Four: TBD
+- Percentile Finish (ESPN): TBD
+- Prediction % Correct (Outcome when all rounds were predicted Before First Round): TBD
+- Prediction % Correct (Outcome when new predictions were made at beginning of Each Round): TBD

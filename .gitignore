@@ -134,9 +134,10 @@ dmypy.json
 # .txt
 *.txt
 
-# data
+# old data
 /adj_eff_snapshot_data
 /team_stats_snapshot_data
 
 # py files
 *.py
+
